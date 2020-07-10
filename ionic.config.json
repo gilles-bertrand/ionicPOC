@@ -1,0 +1,7 @@
+{
+  "name": "tpkapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
