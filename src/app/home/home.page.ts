@@ -6,7 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  myValue="helooooo";
   constructor() {}
+  scan(){
+    console.log('scan')
+    this.myValue="scan"
+  }
 
 }
